@@ -36,3 +36,6 @@ cdk-outputs.json
 /.idea/
 /lib/services/settlement/app/target/
 aggregated_results.txt
+
+.env
+.venv
